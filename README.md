@@ -1,6 +1,6 @@
 # Cheapskate
 
-A simple scripted tool that cleans up resources hosted in Azure. Can be used to save money by periodically wiping test or sandbox environments.
+A simple scripted tool that cleans up resources hosted in Azure. Can be used to save money by periodically destroying test or sandbox environments.
 
 This tool leverages the Azure CLI to automatically destroy [Deployment Stacks](https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-stacks?tabs=azure-powershell).
 
